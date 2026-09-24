@@ -19,6 +19,10 @@ npm run dev
 
 项目是标准 Vite + React 静态站点，可部署到 GitHub Pages、Vercel 或其他静态托管服务。推广链接与内容数据集中在 `src/main.jsx` 顶部，后续可直接修改。
 
+当前推广链接：<https://justmysocks6.net/members/aff.php?aff=25290>
+
+如果主域名 `https://justmysocks.net` 无法访问，请使用备用域名 `https://justmysocks6.net`。
+
 ## 披露
 
-本站不是 Just My Socks 官方网站。部分链接可能是推广链接；用户不会因使用推广链接而支付额外费用。套餐、价格和服务规则请以官方页面为准。
+本站不是 Just My Socks 官方网站。部分链接可能是推广链接；用户不会因使用推广链接而支付额外费用。套餐、价格和服务规则请以官方页面为准。主域名无法访问时，可使用备用域名：<https://justmysocks6.net>。
